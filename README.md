@@ -1,1 +1,1 @@
-# Data-structure-practice
+# 100 days of code challange
